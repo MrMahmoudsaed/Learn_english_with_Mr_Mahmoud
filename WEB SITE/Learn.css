@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Tilt+Prism&family=Ubuntu:ital,wght@0,300;0,400;0,500;0,700;1,300;1,400;1,500;1,700&display=swap');
+body{
+    background: url(Images/4.jpg);
+}
+
+*{
+    font-family: 'Tilt Prism', cursive;
+    font-family: 'Ubuntu', sans-serif;
+    scroll-behavior: smooth;
+}
+
+header{
+    background: fixed;
+    background: white;
+    padding: 10px 200px;
+    margin: 10px 200px;
+}
+
+header a{
+    color: black;
+    text-decoration: none;
+    font-family: 'Tilt Prism', cursive;
+}
+
+header a:hover{
+    color: rgb(0, 255, 115);
+}
